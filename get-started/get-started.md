@@ -1,23 +1,28 @@
-# GET STARTED WITH C SHARP
+# 📘 GET STARTED WITH C SHARP
 
-## Tour of CSharp
+## ✨ Tour of CSharp
 
-CSharp adalah bahasa yang paling populer di ekosistem dotnet. Bahasa _cross-platform_ yang bisa dioperasikan lintas _Operating System_.
+CSharp adalah bahasa pemrograman modern, cross-platform, dan multi-paradigma yang paling populer dalam ekosistem .NET. C# mendukung pemrograman berorientasi objek (OOP), imperatif, hingga fungsional.
 
-CSharp adalah bahasa yang menyediakan banyak fitur untuk developer berpengalaman dan juga mudah dipelajari untuk pemula.
+Bahasa ini dirancang agar:
 
-Sintaks CSharp juga mengadopsi sintask dari bahasa C (C family). Menggunakan `;` sebagai penanda akhir statement, dan control statement menggunakan `for` dan `while`.
+- Mudah digunakan oleh pemula
+- Kaya fitur untuk developer profesional
 
-### Hello world
+> ⚠️ Sintaks C# menyerupai bahasa C-family (seperti C, C++, Java, JavaScript), sehingga familiar bagi banyak programmer.
 
-Ini adalah cara menuliskan "Hello world" di CSharp
+---
+
+### 👋 Hello, World
+
+💡 Ini adalah versi modern menuliskan "Hello world" (C# 10)
 
 ```C#
 // This line prints "Hello, World" 
 Console.WriteLine("Hello, World");
 ```
 
-Code di atas sudah mengalami penyederhanaan. Dulu untuk menuliskan hello world kita menuliskannya seperi ini.
+🏛️ Code di atas sudah mengalami penyederhanaan. Dulu (sebelum versi 9), untuk menuliskan hello world kita menuliskannya seperi ini.
 
 ```C#
 using System;
@@ -35,7 +40,7 @@ class Program
 
 Tapi sekarang kita tidak perlu berbelit-belit menuliskan class Program. Semua sudah dilakukan di balik layar oleh compiler (implisit).
 
-### Fitur CSharp
+### 🛠️ Fitur CSharp
 
 CSharp merupakan tools yang kaya fitur. Programmer berpengalaman akan sangat dimanjakan oleh kayanya fitur tanpa membuat pemula kesulitan untuk belajar.
 
