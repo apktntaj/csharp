@@ -2,9 +2,11 @@
 
 ## Tour of CSharp
 
+CSharp adalah bahasa yang paling populer di ekosistem dotnet. Bahasa _cross-platform_ yang bisa dioperasikan lintas _Operating System_.
+
 CSharp adalah bahasa yang menyediakan banyak fitur untuk developer berpengalaman dan juga mudah dipelajari untuk pemula.
 
-Strongly typed dan secara sintaks sangat dekat dengan C.
+Sintaks CSharp juga mengadopsi sintask dari bahasa C (C family). Menggunakan `;` sebagai penanda akhir statement, dan control statement menggunakan `for` dan `while`.
 
 ### Hello world
 
@@ -31,17 +33,18 @@ class Program
 }
 ```
 
-Tapi sekarang kita tidak perlu berbelit-belit menuliskan class Program. Semua sudah dilakukan di balik layar oleh compiler.
+Tapi sekarang kita tidak perlu berbelit-belit menuliskan class Program. Semua sudah dilakukan di balik layar oleh compiler (implisit).
 
 ### Fitur CSharp
 
-CSharp merupakan tools yang kaya fitur. Programmer berpengalaman akan sangat dimanjakan oleh kayanya fitur tapi tidak membuat pemula menjadi segan.
+CSharp merupakan tools yang kaya fitur. Programmer berpengalaman akan sangat dimanjakan oleh kayanya fitur tanpa membuat pemula kesulitan untuk belajar.
 
 Beberapa fitur CSharp:
 
 - automatic memory menagement
 - ekosistem yang komplit dengan dukungan .NET dan NuGet
 - strongly typed
+- mendukung events
 - pattern matching
 
 ```C#
@@ -81,7 +84,7 @@ public static bool Xor(bool left, bool right) =>
 
 ```
 
-- sintaks sederhana untuk collections data type
+- sintaks ringkas dan seragam untuk collections data type (aaray, list dll)
 
 ```C#
 int[] numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -95,7 +98,7 @@ string last = names[^1]; // ^1 artinya ambil item kesatu tapi dari belakang.
 int[] smallNumbers = numbers[0..5]; // 0 to 4
 ```
 
-- LINQ dan
+- LINQ (Language Integrated Query) dan
 
 ```C#
 var honorRoll = from student in Students
