@@ -1,0 +1,15 @@
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.AssemblyInfoInputs.cache
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.AssemblyInfo.cs
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.csproj.CoreCompileInputs.cache
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.sourcelink.json
+/home/dev/Desktop/csharp/fundamental/bin/Debug/net9.0/fundamental
+/home/dev/Desktop/csharp/fundamental/bin/Debug/net9.0/fundamental.deps.json
+/home/dev/Desktop/csharp/fundamental/bin/Debug/net9.0/fundamental.runtimeconfig.json
+/home/dev/Desktop/csharp/fundamental/bin/Debug/net9.0/fundamental.dll
+/home/dev/Desktop/csharp/fundamental/bin/Debug/net9.0/fundamental.pdb
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.dll
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/refint/fundamental.dll
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.pdb
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/fundamental.genruntimeconfig.cache
+/home/dev/Desktop/csharp/fundamental/obj/Debug/net9.0/ref/fundamental.dll
