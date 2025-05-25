@@ -1,4 +1,14 @@
-﻿List<string> names = ["Alice", "Bob", "Charlie", "David"];
+﻿List<int> fibonacciNumbers = [1, 2];
 
-string last = names[^0]; // ^1 is the last element
-Console.WriteLine(last); // Output: David
+var prev = 1;
+var prev2 = 2;
+
+for (int i = 3; i <= 20; i++)
+{
+    var next = prev + prev2;
+    fibonacciNumbers.Add(next);
+    prev = prev2;
+    prev2 = next;
+}
+
+Console.WriteLine(fibonacciNumbers[^1]);

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tour-of-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed21cbe8499e26c7b5b5ec0f094efc54485eeb43")]
 [assembly: System.Reflection.AssemblyProductAttribute("tour-of-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tour-of-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

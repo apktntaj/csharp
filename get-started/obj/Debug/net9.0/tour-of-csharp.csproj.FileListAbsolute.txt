@@ -26,3 +26,4 @@
 /home/dev/Desktop/csharp/get-started/obj/Debug/net9.0/tour-of-csharp.pdb
 /home/dev/Desktop/csharp/get-started/obj/Debug/net9.0/tour-of-csharp.genruntimeconfig.cache
 /home/dev/Desktop/csharp/get-started/obj/Debug/net9.0/ref/tour-of-csharp.dll
+/home/dev/Desktop/csharp/get-started/obj/Debug/net9.0/tour-of-csharp.sourcelink.json
